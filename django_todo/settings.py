@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-vzepup%0+%%=xoruna#mxj13cgu-_+bo-90r^m$7rc@d5z1-@2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['paulp-django-todo-app.herokuapp.com']
 
 
 # Application definition
